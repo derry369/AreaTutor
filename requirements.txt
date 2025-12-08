@@ -1,0 +1,4 @@
+owlready2
+streamlit
+streamlit-confetti
+bleach
